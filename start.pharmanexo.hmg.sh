@@ -1,6 +1,6 @@
 #!/bin/bash
 
-docker run -d -it -v ~/Developer/Pharmanexo/HMG:/var/www --name pharmanexo-hmg -p 12345:80 chulesantos/apache_php:1
+docker run -d -it -v ~/Developer/Pharmanexo/HMG:/var/www --name pharmanexo-hmg -p 12345:80 chulesantos/php7.2
 
 docker start pharmanexo-hmg
 
