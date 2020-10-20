@@ -1,7 +1,7 @@
 # MyBash
 
-##Tornar Script executável
+## Tornar Script executável
 chmod a+x script.sh
 
-##Mover para pasta de executáveis
+## Mover para pasta de executáveis
 mv script.sh /usr/bin
