@@ -3,5 +3,5 @@
 ## Tornar Script executável
 chmod a+x script.sh
 
-## Mover para pasta de executáveis
-mv script.sh /usr/bin
+## Copiar para pasta de executáveis
+sudo cp script.sh /usr/bin
